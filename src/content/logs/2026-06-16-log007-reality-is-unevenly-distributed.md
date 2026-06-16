@@ -1,9 +1,8 @@
 ---
 title: Log007 - Reality is Unevenly Distributed
 date: 2026-06-16
-description: Bayangkan kamu mengirim sebuah pesan kepada temanmu. Tidak ada yang
-  istimewa. Hanya beberapa kata yang dikirim pada hari yang biasa. Lalu
-  bayangkan pesan yang sama itu sampai kepada dua orang yang berbeda.
+description: Dua orang berbagi momen yang sama, tetapi membawa realitas yang
+  berbeda.Mungkin itulah sebabnya memahami manusia lain terasa begitu sukar.
 type: writing
 draft: false
 ---
@@ -13,15 +12,11 @@ draft: false
 
 Bayangkan kamu mengirim sebuah pesan kepada temanmu.
 
-Tidak ada yang istimewa.
-
-Hanya beberapa kata yang dikirim pada hari yang biasa.
+Tidak ada yang Krusial. Hanya beberapa kata yang dikirim pada hari yang biasanya.
 
 Lalu bayangkan pesan yang sama itu sampai kepada dua orang yang berbeda.
 
-Yang satu tersenyum.
-
-Yang lain menghabiskan malamnya untuk berpikir terlalu jauh.
+Yang satu tersenyum. Yang lain menghabiskan malamnya untuk berpikir terlalu jauh.
 
 Pesannya sama. Maknanya tidak.
 
@@ -55,7 +50,7 @@ Sebuah pesan datang. Kata-katanya terlihat.
 
 Maknanya tidak. Makna lahir dari penafsiran.
 
-Ia dibangun, bukan ditemukan.
+Ia sesuatu dibangun, bukan ditemukan.
 
 > "Kita tidak pernah benar-benar tahu dunia apa yang sedang dibangun oleh orang lain dari kata-kata yang kita kirim."
 
@@ -79,9 +74,9 @@ Sering kali kita menganggap kesalahpahaman muncul karena komunikasi yang buruk.
 
 Padahal mungkin masalahnya bukan di sana.
 
-**Informasi dapat berpindah dari satu pikiran ke pikiran yang lain.**
-
-**Konteks tidak.**
+> Informasi dapat berpindah dari satu pikiran ke pikiran yang lain.
+>
+> Tapi mungkin konteks tidak sama sekali.
 
 Kalimat yang sama dapat menjadi penghiburan.
 
@@ -103,15 +98,15 @@ Ia lahir dari sebuah ketimpangan yang tak terlihat.
 
 Dua orang berbagi momen yang sama, tetapi membawa realitas yang berbeda.
 
-Mungkin itulah sebabnya memahami manusia lain terasa begitu sulit.
+Mungkin itulah sebabnya memahami manusia lain terasa begitu sukar.
 
 Kita mendengar kata-katanya.
 
 Namun jarang melihat dunia yang melahirkan kata-kata itu.
 
-Realitas memang tidak pernah terbagi secara merata.
+Pada akhirnya realitas memang tidak pernah terbagi secara merata.
 
-Dan mungkin pemahaman dimulai ketika kita berhenti menganggap bahwa semua orang sedang hidup dalam dunia yang sama.
+Dan mungkin proses memahami dapat dimulai ketika kita berhenti menganggap bahwa semua orang sedang hidup dalam dunia yang sama karena.
 
 > "Setiap manusia adalah mesin penenun makna."
 
