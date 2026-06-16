@@ -1,8 +1,7 @@
 ---
 title: Log007 - Reality is Unevenly Distributed
 date: 2026-06-16
-description: Dua orang berbagi momen yang sama, tetapi membawa realitas yang
-  berbeda.Mungkin itulah sebabnya memahami manusia lain terasa begitu sukar.
+description: Dua orang berbagi momen yang sama, tetapi membawa realitas yang berbeda.
 type: writing
 draft: false
 ---
